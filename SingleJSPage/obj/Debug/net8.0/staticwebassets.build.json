@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "mvtYehzm1b65/IEylP9cI+4kLE3qULOm40mlO+B+zgY=",
+  "Source": "SingleJSPage",
+  "BasePath": "_content/SingleJSPage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SingleJSPage\\wwwroot",
+      "Source": "SingleJSPage",
+      "ContentRoot": "C:\\Users\\derek\\source\\repos\\SingleJSPage\\SingleJSPage\\wwwroot\\",
+      "BasePath": "_content/SingleJSPage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\derek\\source\\repos\\SingleJSPage\\SingleJSPage\\wwwroot\\css\\site.css",
+      "SourceId": "SingleJSPage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\derek\\source\\repos\\SingleJSPage\\SingleJSPage\\wwwroot\\",
+      "BasePath": "_content/SingleJSPage",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hz0fgozk9j",
+      "Integrity": "Q636yUzYH/TNFmC3Me28X6EV4dY6jBkHFkAl9ciU9+k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\derek\\source\\repos\\SingleJSPage\\SingleJSPage\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q636yUzYH/TNFmC3Me28X6EV4dY6jBkHFkAl9ciU9+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 01:45:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q636yUzYH/TNFmC3Me28X6EV4dY6jBkHFkAl9ciU9+k="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.hz0fgozk9j.css",
+      "AssetFile": "C:\\Users\\derek\\source\\repos\\SingleJSPage\\SingleJSPage\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1346"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q636yUzYH/TNFmC3Me28X6EV4dY6jBkHFkAl9ciU9+k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 01:45:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hz0fgozk9j"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q636yUzYH/TNFmC3Me28X6EV4dY6jBkHFkAl9ciU9+k="
+        }
+      ]
+    }
+  ]
+}

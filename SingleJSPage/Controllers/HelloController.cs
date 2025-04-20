@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace SingleJSPage.Controllers
 {
     [ApiController]
-    [Authorize]
+    //[Authorize]
     [Route("[controller]")]
     public class HelloController : ControllerBase
     {
